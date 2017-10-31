@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>GameBoardCell.qml</file>
+        <file>CustomMessageDialog.qml</file>
+        <file>GamePlayScreen.qml</file>
+        <file>DialogInputConnectionInfo.qml</file>
+        <file>DialogInputPlayerInfo.qml</file>
+        <file>DialogMenuGameReplay.qml</file>
+    </qresource>
+</RCC>
